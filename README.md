@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/ruslanchezhin" target="_blank">Ruslan</a></h1>
+<h3 align="center">Python developer, musician from Moscow 🇷🇺</h3>
 
 <!--
 **Chezhin/Chezhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
